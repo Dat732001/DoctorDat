@@ -1,0 +1,21 @@
+/* Heading cấp 1 (trong nội dung) */
+.rst-content h1 {
+    font-size: 2.2em;
+    color: #003366;
+    border-bottom: 2px solid #003366;
+    padding-bottom: 5px;
+}
+
+/* Heading cấp 2 */
+.rst-content h2 {
+    font-size: 1.8em;
+    color: #006699;
+    margin-top: 25px;
+}
+
+/* Heading cấp 3 */
+.rst-content h3 {
+    font-size: 1.5em;
+    font-style: italic;
+    color: #0099cc;
+}
